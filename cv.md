@@ -6,7 +6,6 @@
 * Skype           - unsgmasters
 * Date of Birth	  - 22.11.1991
 * Family status	  - single
-
 ---
 **Objective**
 ---
@@ -31,3 +30,35 @@
 - Spring
 - Hibernate
 - SQL
+
+---
+**Code examples**
+---
+
+ - https://github.com/sgmasters/jstask2
+ - https://github.com/sgmasters/java-mastery-task-simplewebapp
+---
+**Experience**
+---
+
+I am Software Engeneer in Java department about a half year.
+---
+**Education**
+---
+
+***Master of Technical Sciences***
+2015	Belarusian State Technological University, Minsk
+
+*Faculty of Publishing and Printing*
+
+***Cources***
+2019	It-Academy Belarus Hi Tech Park 
+
+*Java fundamentals*
+
+---
+**English**
+---
+
+*Pre-Intermediate*
+A lot of reading, a little practice.
